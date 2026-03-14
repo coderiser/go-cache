@@ -1,7 +1,5 @@
 package service
 
-//go:generate go run ../../../cmd/generator/main.go .
-
 import (
 	"fmt"
 	"sync"
